@@ -56,7 +56,7 @@
                 {
                     "value": "yasmineboujnah07@email.com",
                     "links": [
-                        {"href": "yasmineboujnah07@email.com"}
+                        {"href": "mailto:yasmineboujnah07@email.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -72,7 +72,7 @@
                 {
                     "value": "Yasmine Boujnah",
                     "links": [
-                        {"href": "www.linkedin.com/in/yasmine-boujnah"}
+                        {"href": "https://www.linkedin.com/in/yasmine-boujnah"}
                     ],
                     "icon": {
                         "img": null,

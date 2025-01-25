@@ -59,7 +59,7 @@
                 {
                     "value": "yasmineboujnah07@gmail.com",
                     "links": [
-                        {"href": "yasmineboujnah07@gmail.com"}
+                        {"href": "mailto:yasmineboujnah07@email.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -152,86 +152,6 @@
                     }
                 },
 
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-cake-candles",
-                        "faColors": null
-                    },
-                    "value": null,
-                    "locales": {
-                        "en": {
-                            "title": "Cooking",
-                            "info": "Cooking is an art that brings flavors together, transforming simple ingredients into delicious, nourishing meals."
-                        },
-                        "es": {
-                            "title": "cocinando",
-                            "info": "Cocinar es un arte que une sabores, transformando ingredientes simples en comidas deliciosas y nutritivas."
-                        },
-                        "fr": {
-                            "title": "cuisson",
-                            "info": "La cuisine est un art qui rassemble les saveurs, transformant des ingrédients simples en repas délicieux et nourrissants."
-                        },
-                        "ko": {
-                            "title": "요리",
-                            "info": "요리는 여러 맛을 하나로 모아 간단한 재료를 맛있고 영양가 있는 요리로 바꾸는 예술입니다."
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-hat-wizard",
-                        "faColors": null
-                    },
-                    "value": null,
-                    "locales": {
-                        "en": {
-                            "title": "knitting",
-                            "info": "Knitting is a relaxing and creative craft that transforms yarn into unique, handmade pieces."
-                        },
-                        "es": {
-                            "title": "tejido de punto",
-                            "info": "Tejer es una artesanía relajante y creativa que transforma el hilo en piezas únicas hechas a mano."
-                        },
-                        "fr": {
-                            "title": "tricot",
-                            "info": "Le tricot est un artisanat relaxant et créatif qui transforme le fil en pièces uniques faites à la main."
-                        },
-                        "ko": {
-                            "title": "편물",
-                            "info": "뜨개질은 실을 이용해 독특하고 손수 만든 작품을 만드는 편안하고 창의적인 공예입니다."
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-bicycle",
-                        "faColors": null
-                    },
-                    "value": null,
-                    "locales": {
-                        "en": {
-                            "title": "cycling",
-                            "info": "Cycling combines fitness and exploration, a sustainable way to connect with the world around us."
-                        },
-                        "es": {
-                            "title": "ciclismo",
-                            "info": "El ciclismo combina fitness y exploración, una forma sostenible de conectarnos con el mundo que nos rodea."
-                        },
-                        "fr": {
-                            "title": "vélo",
-                            "info": "Le cyclisme allie forme physique et exploration, une façon durable de se connecter avec le monde qui nous entoure."
-                        },
-                        "ko": {
-                            "title": "사이클링",
-                            "info": "자전거 타기는 피트니스와 탐험을 결합한 것으로, 우리 주변 세계와 지속 가능하게 연결되는 방법입니다."
-                        }
-                    }
-                },
 
                 {
                     "icon": {
