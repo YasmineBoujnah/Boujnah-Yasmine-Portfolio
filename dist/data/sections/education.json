@@ -35,152 +35,78 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/pictures/place-5.png",
+                        "img": "images/logo/bac.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "01/01/2015",
-                        "end": "12/01/2019"
+                        "start": "10/03/2021",
+                        "end": "07/01/2022"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Bachelor** in Computer Science",
-                            "info": "MIT",
-                            "text": "Earned a Bachelor's degree in Computer Science, focusing on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects and boot camps.",
+                            "title": "**Scientific Baccalaureate** in Physics and Chemistry",
+                            "info": "Abd Alkhalek Torres - Casablanca",
+                            "text": "The path to the scientific baccalaureate in Morocco is a demanding path that develops solid skills in mathematics, physics, chemistry, and life and earth sciences. This structured curriculum, spanning from primary school to high school, offers rigorous training that prepares students for higher education in scientific and technical fields, opening doors to prestigious and innovative careers.",
                             "tags": []
                         },
                         "es": {
-                            "title": "**Licenciatura** en Ciencias de la Computación",
-                            "info": "MIT",
-                            "text": "Obtuve una licenciatura en Ciencias de la Computación, con un enfoque en algoritmos, estructuras de datos, ingeniería de software y desarrollo web. Adquirí experiencia práctica a través de varios proyectos de programación y campamentos de entrenamiento.",
+                            "title": "**Bachillerato Científico** en Física y Química",
+                            "info": "Abd Alkhalek Torres - Casablanca",
+                            "text": "El camino hacia el bachillerato científico en Marruecos es un camino exigente que desarrolla habilidades sólidas en matemáticas, física, química y ciencias de la vida y de la tierra. Este currículo estructurado, que abarca desde la escuela primaria hasta la secundaria, ofrece una formación rigurosa que prepara a los estudiantes para la educación superior en campos científicos y técnicos, abriendo así las puertas a carreras prestigiosas e innovadoras.",
                             "tags": null
                         },
                         "fr": {
-                            "title": "**Licence** en Informatique",
-                            "info": "MIT",
-                            "text": "Obtenu une licence en Informatique, avec un accent sur les algorithmes, les structures de données, l'ingénierie logicielle et le développement web. Acquis une expérience pratique à travers divers projets de programmation et camps de formation.",
+                            "title": "**Baccalauréat Scientifique** en Physique et Chimie",
+                            "info": "Abd Alkhalek Torres - Casablanca",
+                            "text": "Le parcours vers le baccalauréat scientifique au Maroc est un chemin exigeant qui développe des compétences solides en mathématiques, physique, chimie et sciences de la vie et de la terre. Ce cursus structuré, allant de l'école primaire au lycée, offre une formation rigoureuse qui prépare les élèves aux études supérieures dans des domaines scientifiques et techniques, ouvrant ainsi les portes à des carrières prestigieuses et innovantes.",
                             "tags": null
                         },
                         "ko": {
-                            "title": "**학사** 컴퓨터 과학",
-                            "info": "MIT",
-                            "text": "알고리즘, 데이터 구조, 소프트웨어 공학 및 웹 개발에 중점을 둔 컴퓨터 과학 학사 학위를 취득했습니다. 다양한 프로그래밍 프로젝트와 부트캠프를 통해 실무 경험을 쌓았습니다.",
+                            "title": "물리학 및 화학 과학 학사 학위",
+                            "info": "Abd Alkhalek Torres - Casablanca",
+                            "text": "모로코에서 과학 학사 학위를 취득하기 위한 과정은 수학, 물리, 화학, 생명과 지구과학 분야에서 탄탄한 기술을 개발하는 까다로운 과정입니다. 초등학교부터 고등학교까지 체계적인 커리큘럼을 통해 학생들에게 과학 및 기술 분야의 고등 교육을 준비시키는 엄격한 교육을 제공하여 명망 있고 혁신적인 직업으로의 문을 열어줍니다.",
                             "tags": null
                         }
                     }
                 },
 
-                {
-                    "icon": {
-                        "img": "images/pictures/place-2.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "dates": {
-                        "start": "01/01/2014",
-                        "end": "06/01/2014"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "PHP Development **Nanodegree**",
-                            "info": "Udacity",
-                            "text": "Completed an intensive Nanodegree program focused on PHP development, covering essential skills like backend programming, database management, and web application deployment. This course provided a solid foundation in modern PHP practices.",
-                            "tags": ["PHP 8+", "Laravel", "MongoDB"]
-                        },
-                        "es": {
-                            "title": "Nanogrado en **Desarrollo PHP**",
-                            "info": "Udacity",
-                            "text": "Completé un programa intensivo de Nanogrado centrado en el desarrollo de PHP, cubriendo habilidades esenciales como la programación backend, la gestión de bases de datos y el despliegue de aplicaciones web. Este curso proporcionó una base sólida en las prácticas modernas de PHP.",
-                            "tags": null
-                        },
-                        "fr": {
-                            "title": "Nanodiplôme en **Développement PHP**",
-                            "info": "Udacity",
-                            "text": "Terminé un programme intensif de Nanodiplôme axé sur le développement PHP, couvrant des compétences essentielles telles que la programmation backend, la gestion de bases de données et le déploiement d'applications web. Ce cours a fourni une base solide dans les pratiques modernes de PHP.",
-                            "tags": null
-                        },
-                        "ko": {
-                            "title": "PHP 개발 **나노디그리**",
-                            "info": "Udacity",
-                            "text": "PHP 개발에 중점을 둔 집중 나노디그리 프로그램을 완료하여 백엔드 프로그래밍, 데이터베이스 관리 및 웹 애플리케이션 배포와 같은 필수 기술을 배웠습니다. 이 과정은 현대 PHP 실무에 대한 탄탄한 기초를 제공했습니다.",
-                            "tags": null
-                        }
-                    }
-                },
+
 
                 {
                     "icon": {
-                        "img": "images/pictures/place-6.png",
+                        "img": "images/logo/full.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "09/01/2020",
-                        "end": "06/01/2022"
+                        "start": "09/01/2023",
+                        "end": "07/10/2025"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Master's** in Artificial Intelligence",
-                            "info": "University of Paris",
-                            "text": "<p>Completed a comprehensive Master's program focused on cutting-edge AI topics, including:</p> <ul><li>Machine Learning</li><li>Natural Language Processing (NLP)</li><li>Neural Networks</li></ul> <p class='mt-3'>Applied research and theory to develop practical AI-driven solutions, combining academic excellence with real-world innovation.</p>",
-                            "tags": []
+                            "title": "**Technician specializing** in full-stack development",
+                            "info": "ISTA NTIC 2 SM",
+                            "text": "<p>The Full Stack Development Technician training at ISTA is designed to train versatile developers capable of creating complete web applications, from the user interface (frontend) to the server and database (backend).</p> <ul><li>Frontend Development</li><li>Backend Development</li><li>Databases</li><li>Development Tools and Environments</li><li>Project Management</li><li>Web Security and Quality</li></ul>",
+                            "tags": ["Full Stack Web Application Development", "Digital Project Management", "Application Security and Optimization"]
                         },
                         "es": {
-                            "title": "**Máster** en Inteligencia Artificial",
-                            "info": "Universidad de París",
-                            "text": "<p>Completé un programa de máster integral centrado en temas de IA de vanguardia, incluyendo:</p> <ul><li>Aprendizaje Automático</li><li>Procesamiento del Lenguaje Natural (PLN)</li><li>Redes Neuronales</li></ul> <p class='mt-3'>Apliqué investigación y teoría para desarrollar soluciones prácticas impulsadas por IA, combinando la excelencia académica con la innovación en el mundo real.</p>",
-                            "tags": []
+                            "title": "**Técnico especializado** en desarrollo full-stack",
+                            "info": "ISTA NTIC 2 SM",
+                            "text": "<p>La formación de Técnico Especialista en Desarrollo Full Stack de ISTA está diseñada para formar desarrolladores versátiles capaces de crear aplicaciones web completas, desde la interfaz de usuario (frontend) hasta el servidor y la base de datos (backend).</p> <ul> <li>Desarrollo Frontend</li><li>Desarrollo Backend</li><li>Bases de datos</li><li>Herramientas y entornos de desarrollo</li>< li>Gestión de proyectos</li><li>Web Seguridad y Calidad</li></ul>",
+                            "tags": ["Desarrollo de aplicaciones web full stack", "Gestión de proyectos digitales", "Seguridad y optimización de aplicaciones"]
                         },
                         "fr": {
-                            "title": "**Master** en Intelligence Artificielle",
-                            "info": "Université de Paris",
-                            "text": "<p>J'ai terminé un programme de Master complet axé sur les sujets de pointe en IA, y compris:</p> <ul><li>Apprentissage Automatique</li><li>Traitement du Langage Naturel (TLN)</li><li>Réseaux Neuronaux</li></ul> <p class='mt-3'>J'ai appliqué la recherche et la théorie pour développer des solutions IA pratiques, alliant excellence académique et innovation réelle.</p>",
-                            "tags": []
+                            "title": "**Technicien spécialisé** en développement full-stack",
+                            "info": "ISTA NTIC 2 SM",
+                            "text": "<p>La formation de Technicien Spécialisé en Développement Full Stack à l'ISTA est conçue pour former des développeurs polyvalents capables de créer des applications web complètes, de l'interface utilisateur (frontend) au serveur et à la base de données (backend).</p> <ul><li>Développement Frontend</li><li>Développement Backend</li><li>Bases de Données</li><li>Outils et Environnements de Développement</li><li>Gestion de Projet</li><li>Sécurité et Qualité Web </li></ul> ",
+                            "tags": ["Développement d'Applications Web Full Stack", "Gestion de Projets Numériques", "Sécurité et Optimisation des Applications"]
                         },
                         "ko": {
-                            "title": "인공지능 **석사**",
-                            "info": "파리 대학교",
-                            "text": "<p>최첨단 인공지능 주제에 중점을 둔 석사 과정을 완료했습니다. 다룬 주제는 다음과 같습니다:</p> <ul><li>머신러닝</li><li>자연어 처리 (NLP)</li><li>신경망</li></ul> <p class='mt-3'>연구와 이론을 실제 AI 솔루션 개발에 적용하여 학문적 우수성과 실질적 혁신을 결합했습니다.</p>",
-                            "tags": []
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": "images/pictures/place-4.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "dates": {
-                        "start": "09/01/2022",
-                        "end": "06/01/2024"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "**PhD** in Computer Science",
-                            "info": "Harvard University",
-                            "text": "<p>Currently pursuing a PhD with a focus on deep learning and its real-world applications, particularly in:</p> <ul><li>Computer Vision</li><li>Innovative AI research</li><li>Developing novel algorithms for image recognition</li></ul> <p class='mt-3'>Engaged in cutting-edge research and contributing to AI advancement through publications in top-tier conferences.</p>",
-                            "tags": ["Deep Learning", "Computer Vision", "AI Research", "Algorithms"]
-                        },
-                        "es": {
-                            "title": "**Doctorado** en Ciencias de la Computación",
-                            "info": "Universidad de Harvard",
-                            "text": "<p>Cursando un doctorado con enfoque en aprendizaje profundo y sus aplicaciones en el mundo real, específicamente en:</p> <ul><li>Visión por Computadora</li><li>Investigación innovadora en IA</li><li>Desarrollo de nuevos algoritmos para el reconocimiento de imágenes</li></ul> <p class='mt-3'>Involucrado en investigaciones de vanguardia y contribuyendo al avance de la IA a través de publicaciones en conferencias de primer nivel.</p>",
-                            "tags": ["Aprendizaje Profundo", "Visión por Computadora", "Investigación IA", "Algoritmos"]
-                        },
-                        "fr": {
-                            "title": "**Doctorat** en Informatique",
-                            "info": "Université de Harvard",
-                            "text": "<p>En cours de doctorat avec un accent sur l'apprentissage profond et ses applications pratiques, notamment dans:</p> <ul><li>Vision par Ordinateur</li><li>Recherche IA innovante</li><li>Développement de nouveaux algorithmes de reconnaissance d'images</li></ul> <p class='mt-3'>Impliqué dans des recherches de pointe et contribuant à l'avancement de l'IA par des publications dans des conférences de renom.</p>",
-                            "tags": ["Apprentissage Profond", "Vision par Ordinateur", "Recherche IA", "Algorithmes"]
-                        },
-                        "ko": {
-                            "title": "컴퓨터 과학 **박사**",
-                            "info": "하버드 대학교",
-                            "text": "<p>딥러닝과 그 실제 응용 분야에 중점을 둔 박사 과정을 수행 중입니다. 특히 다음에 초점을 맞추고 있습니다:</p> <ul><li>컴퓨터 비전</li><li>혁신적인 AI 연구</li><li>이미지 인식을 위한 새로운 알고리즘 개발</li></ul> <p class='mt-3'>최첨단 연구에 참여하고, 유명 학회에서 발표하여 AI 기술 발전에 기여하고 있습니다.</p>",
-                            "tags": ["딥러닝", "컴퓨터 비전", "AI 연구", "알고리즘"]
+                            "title": "풀스택 개발을 전문으로 하는 기술자",
+                            "info": "ISTA NTIC 2 SM",
+                            "text": "<p>ISTA의 Full Stack Development Specialist Technician 교육은 사용자 인터페이스(프런트엔드)부터 서버 및 데이터베이스(백엔드)까지 완전한 웹 애플리케이션을 만들 수 있는 다재다능한 개발자를 양성하기 위해 설계되었습니다.</p> <ul><li>프런트엔드 개발</li><li>백엔드 개발</li><li>데이터베이스</li><li>개발 도구 및 환경</li><li>관리 프로젝트</li><li>웹 보안 및 품질</li></ul>",
+                            "tags": ["풀 스택 웹 애플리케이션 개발", "디지털 프로젝트 관리", "애플리케이션 보안 및 최적화"]
                         }
                     }
                 }

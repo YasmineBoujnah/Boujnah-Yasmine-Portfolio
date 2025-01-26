@@ -5,21 +5,21 @@
 
     "preloader": {
         "enabled": true,
-        "title": "React <b>Portfolio</b>",
-        "subtitle": "by Ryan Balieiro"
+        "title": "<b>Yasmine Boujnah </b> Portfolio",
+        "subtitle": "by Yasmine Boujnah"
     },
 
     "profile": {
-        "name": "Mark Choi",
-        "stylizedName": "<strong>Mark **Choi**</strong>",
-        "logoUrl": "images/svg/logo.svg",
+        "name": "Yasmine Boujnah",
+        "stylizedName": "<strong>Yasmine **Boujnah**</strong>",
+        "logoUrl": "images/logo/3d.png",
         "profilePictureUrl": "images/pictures/avatar.jpg",
 
         "locales": {
-            "en": {"role": "Web Developer"},
-            "es": {"role": "Desarrollador Web"},
-            "fr": {"role": "Développeur Web"},
-            "ko": {"role": "웹 개발자"}
+            "en": {"role": " Full Stack Web Developer"},
+            "es": {"role": "Desarrolladora Web Full Stack"},
+            "fr": {"role": "Développeur Web Full Stack"},
+            "ko": {"role": "풀 스택 웹 개발자"}
         }
     },
 

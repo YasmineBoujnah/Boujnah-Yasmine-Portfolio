@@ -26,38 +26,19 @@
     },
 
     "articles": [
-        {
-            "id": "contact_form",
-            "component": "ArticleContactForm",
-            "config": {},
-            "locales": {
-                "en": {"title": "Send me a **message**"},
-                "es": {"title": "Envíame un **mensaje**"},
-                "fr": {"title": "Envoyez-moi un **message**"},
-                "ko": {"title": "**메시지를** 보내주세요"}
-            },
-
-            "items": null
-        },
-
+    
         {
             "id": "contact_list",
             "component": "ArticleGrid",
             "config": {
                 "format": "grid"
             },
-            "locales": {
-                "en": {"title": "Or if you **prefer**..."},
-                "es": {"title": "O si **prefieres**..."},
-                "fr": {"title": "Ou si vous **préférez**..."},
-                "ko": {"title": "또는 **원하시면**..."}
-            },
 
             "items": [
                 {
-                    "value": "+1 (123) 456-7890",
+                    "value": "+212 20523891",
                     "links": [
-                        {"href": "tel:11234567890"}
+                        {"href": "tel:+212 20523891"}
                     ],
                     "icon": {
                         "img": null,
@@ -73,9 +54,9 @@
                 },
 
                 {
-                    "value": "mark.choi@email.com",
+                    "value": "yasmineboujnah07@email.com",
                     "links": [
-                        {"href": "mailto:mark.choi@email.com"}
+                        {"href": "mailto:yasmineboujnah07@email.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -89,9 +70,9 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "Yasmine Boujnah",
                     "links": [
-                        {"href": "https://linkedin.com"}
+                        {"href": "https://www.linkedin.com/in/yasmine-boujnah"}
                     ],
                     "icon": {
                         "img": null,
@@ -104,24 +85,9 @@
                 },
 
                 {
-                    "value": "Mark Choi",
+                    "value": "@vaneeellopeee",
                     "links": [
-                        {"href": "https://facebook.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-facebook",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "Facebook"}
-                    }
-                },
-
-                {
-                    "value": "@markchoi",
-                    "links": [
-                        {"href": "https://instagram.com"}
+                        {"href": "https://www.instagram.com/vaneeellopeee/"}
                     ],
                     "icon": {
                         "img": null,
@@ -134,17 +100,17 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@YasmineBoujnah",
                     "links": [
-                        {"href": "https://tiktok.com"}
+                        {"href": "https://github.com/YasmineBoujnah"}
                     ],
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-tiktok",
+                        "fa": "fa-brands fa-github",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"title": "TikTok"}
+                        "en": {"title": "Github"}
                     }
                 }
             ]
