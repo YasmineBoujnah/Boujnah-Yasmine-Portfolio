@@ -6,21 +6,18 @@
             "title_long_prefix": "Here are my",
             "title_long": "Career **Achievements**"
         },
-
         "es": {
             "title": "Logros",
             "title_menu": "Logros",
             "title_long_prefix": "Aquí están mis",
             "title_long": "**Logros** Profesionales"
         },
-
         "fr": {
-            "title": "Réalis",
+            "title": "Réalisations",
             "title_menu": "Réalisations",
             "title_long_prefix": "Voici",
             "title_long": "Mes **Réalisations**"
         },
-
         "ko": {
             "title": "경력 성과",
             "title_menu": "경력 성과",
@@ -28,7 +25,6 @@
             "title_long": "**경력 성과**입니다"
         }
     },
-
     "articles": [
         {
             "id": "certifications",
@@ -40,13 +36,12 @@
                 "fr": { "title": "Certifications" },
                 "ko": { "title": "인증서" }
             },
-
             "items": [
                 {
                     "icon": {
                         "img": "images/logo/machine.jpg",
                         "fa": "fa-solid fa-life-ring",
-                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
+                        "faColors": { "bg": "#326CE5", "fill": "#EEE" }
                     },
                     "dates": {
                         "start": "12/01/2020",
@@ -67,15 +62,15 @@
                             "text": "Introduction complète à la science des données et à l'apprentissage automatique, du niveau de base au niveau avancé (Udemy)"
                         },
                         "ko": {
-                            "text": "기본부터 고급까지 데이터 과학 및 메신 루밍에 대해서의 전체 소개 (Udemy)"
+                            "text": "기본부터 고급까지 데이터 과학 및 머신 러닝에 대한 전체 소개 (Udemy)"
                         }
                     }
                 },
                 {
                     "icon": {
-                        "img":  "images/logo/sec.png",
+                        "img": "images/logo/sec.png",
                         "fa": "fa-brands fa-aws",
-                        "faColors": {"bg": "#FFD700", "fill": "#111"}
+                        "faColors": { "bg": "#FFD700", "fill": "#111" }
                     },
                     "dates": {
                         "start": "05/05/2021",
@@ -96,13 +91,149 @@
                             "text": "Stratégies éprouvées pour protéger les réseaux, détecter les intrusions et protéger les données contre les cyberattaques modernes (Udemy)"
                         },
                         "ko": {
-                            "text": "네트워크를 보호하고 침지를 판지하며 최신 사이버 공격에서 데이터를 복해보내는 직전된 정치 (Udemy)"
+                            "text": "네트워크를 보호하고 침입을 탐지하며 최신 사이버 공격에서 데이터를 보호하기 위한 검증된 전략 (Udemy)"
                         }
                     }
                 }
-  
-                
+            ]
+        },
+        {
+            "id": "awards",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "academic project" },
+                "es": { "title": "proyecto academico" },
+                "fr": { "title": "projet académique" },
+                "ko": { "title": "학술 프로젝트" }
+            },
+            "items": [
+                {
+                    "dates": {
+                        "start": "10/25/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "https://github.com/imadbl777/Absense_System_Management/tree/Yasmine" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Absentify** – Absence management system",
+                            "info": "ISTA NTIC 2 SM",
+                            "text": "AttendEase is a comprehensive absence management system built with Laravel, React, and TailwindCSS. Designed to streamline attendance tracking in schools, the app offers features such as secure role-based access, automatic notifications for excessive absences, justification uploads, and real-time absence statistics.<br>This project serves as a hands-on learning experience for mastering project management and Scrum methodologies, tracked using Jira. It also emphasizes collaboration and version control through GitHub, enhancing teamwork and development practices."
+                        },
+                        "es": {
+                            "title": "**Absentify** – Sistema de gestión de ausencias",
+                            "info": "ISTA NTIC 2 SM",
+                            "text": "AttendEase es un sistema integral de gestión de ausencias creado con Laravel, React y TailwindCSS. Diseñada para optimizar el seguimiento de la asistencia en las escuelas, la aplicación ofrece funciones como acceso seguro basado en roles, notificaciones automáticas de ausencias excesivas, cargas de justificaciones y estadísticas de ausencias en tiempo real. Este proyecto sirve como una experiencia de aprendizaje práctica para dominar la gestión de proyectos y las metodologías Scrum, con seguimiento mediante Jira. También enfatiza la colaboración y el control de versiones a través de GitHub, lo que mejora el trabajo en equipo y las prácticas de desarrollo."
+                        },
+                        "fr": {
+                            "title": "**Absentify** – Système de gestion des absences",
+                            "info": "ISTA NTIC 2 SM",
+                            "text": "AttendEase est un système complet de gestion des absences conçu avec Laravel, React et TailwindCSS. Conçue pour rationaliser le suivi des présences dans les écoles, l'application offre des fonctionnalités telles qu'un accès sécurisé basé sur les rôles, des notifications automatiques pour les absences excessives, des téléchargements de justifications et des statistiques d'absence en temps réel. Ce projet sert d'expérience d'apprentissage pratique pour maîtriser la gestion de projet et les méthodologies Scrum, suivies à l'aide de Jira. Il met également l'accent sur la collaboration et le contrôle des versions via GitHub, améliorant ainsi le travail d'équipe et les pratiques de développement."
+                        },
+                        "ko": {
+                            "title": "**Absentify** – 결근 관리 시스템",
+                            "info": "ISTA NTIC 2 SM",
+                            "text": "AttendEase는 Laravel, React, TailwindCSS로 구축된 포괄적인 결석 관리 시스템입니다. 학교에서 출석 추적을 간소화하도록 설계된 이 앱은 보안 역할 기반 액세스, 과도한 결석에 대한 자동 알림, 정당화 업로드, 실시간 결석 통계와 같은 기능을 제공합니다. 이 프로젝트는 Jira를 사용하여 추적되는 프로젝트 관리 및 Scrum 방법론을 마스터하기 위한 실습 학습 경험 역할을 합니다. 또한 GitHub을 통한 협업 및 버전 제어를 강조하여 팀워크와 개발 관행을 향상시킵니다."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "01/09/2025",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "https://github.com/itachi880/ofppt_courier.git" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Ofppt courier** – Dynamic CRUD Operations",
+                            "info": "",
+                            "text": "OFFPTCourrier is a group project developed using MySQL, Node.js, and React, designed to simplify and digitize the management of organizational correspondence. This collaborative effort enables teams to efficiently handle incoming and outgoing mail, ensuring streamlined communication and record-keeping"
+                        },
+                        "es": {
+                            "title": "**Ofppt courier** – Operaciones CRUD dinámicas",
+                            "info": "",
+                            "text": "OFFPTCourrier es un proyecto grupal desarrollado con MySQL, Node.js y React, diseñado para simplificar y digitalizar la gestión de la correspondencia organizacional. Este esfuerzo colaborativo permite a los equipos gestionar de manera eficiente el correo entrante y saliente, lo que garantiza una comunicación optimizada y un mantenimiento de registros."
+                        },
+                        "fr": {
+                            "title": "**Ofppt courier** – Opérations CRUD dynamiques",
+                            "info": "",
+                            "text": "OFFPTCourrier est un projet de groupe développé à l'aide de MySQL, Node.js et React, conçu pour simplifier et numériser la gestion de la correspondance organisationnelle. Cet effort collaboratif permet aux équipes de gérer efficacement le courrier entrant et sortant, garantissant ainsi une communication et une conservation des dossiers simplifiées."
+                        },
+                        "ko": {
+                            "title": "**Ofppt courier** – 동적 CRUD 작업",
+                            "info": "",
+                            "text": "OFFPTCourrier는 MySQL, Node.js, React를 사용하여 개발된 그룹 프로젝트로, 조직 서신 관리를 간소화하고 디지털화하도록 설계되었습니다. 이 협업적 노력을 통해 팀은 수신 및 발신 메일을 효율적으로 처리하여 간소화된 커뮤니케이션과 기록 보관을 보장할 수 있습니다."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "11/01/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "https://github.com/YasmineBoujnah/Boujnah-Yasmine-Portfolio.git" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Portfolio** – Portfolio Project Overview",
+                            "info": "",
+                            "text": "A professional portfolio website built with React and SCSS to showcase skills, projects, and professional achievements in an elegant and interactive design. This project is designed to serve as a personal brand website, leaving a strong impression on recruiters, clients, or collaborators."
+                        },
+                        "es": {
+                            "title": "**Portfolio** – Descripción general del proyecto de cartera",
+                            "info": "",
+                            "text": "Un sitio web de portafolio profesional creado con React y SCSS para mostrar habilidades, proyectos y logros profesionales en un diseño elegante e interactivo. Este proyecto está diseñado para funcionar como un sitio web de marca personal, dejando una fuerte impresión en reclutadores, clientes o colaboradores."
+                        },
+                        "fr": {
+                            "title": "**Portfolio** – Aperçu du projet de portefeuille",
+                            "info": "",
+                            "text": "Un site Web de portfolio professionnel créé avec React et SCSS pour présenter des compétences, des projets et des réalisations professionnelles dans un design élégant et interactif. Ce projet est conçu pour servir de site Web de marque personnelle, laissant une forte impression sur les recruteurs, les clients ou les collaborateurs."
+                        },
+                        "ko": {
+                            "title": "**Portfolio** – 포트폴리오 프로젝트 개요",
+                            "info": "",
+                            "text": "React와 SCSS로 구축된 전문 포트폴리오 웹사이트로, 우아하고 상호작용적인 디자인으로 기술, 프로젝트, 전문적 업적을 선보입니다. 이 프로젝트는 개인 브랜드 웹사이트 역할을 하도록 설계되어 채용 담당자, 고객 또는 협력자에게 강한 인상을 남깁니다."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "09/01/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "https://github.com/YasmineBoujnah/Grove-Pixel-Game/tree/main" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Glove Pixel Game** – 2D graphics and animations using HTML5 Canvas",
+                            "info": "",
+                            "text": "Glove Pixel Game is a 2D retro-style game inspired by classics like Pokémon, built using Vanilla JavaScript, HTML, and CSS. This game offers players an immersive pixel-art world where they can explore, interact, and embark on exciting adventures. Designed to be lightweight and efficient, it showcases the power of pure JavaScript for game development while providing a nostalgic gaming experience."
+                        },
+                        "es": {
+                            "title": "**Glove Pixel Game** – Gráficos y animaciones 2D con HTML5 Canvas",
+                            "info": "",
+                            "text": "Glove Pixel Game es un juego de estilo retro en 2D inspirado en clásicos como Pokémon, creado con Vanilla JavaScript, HTML y CSS. Este juego ofrece a los jugadores un mundo inmersivo de pixel art donde pueden explorar, interactuar y embarcarse en emocionantes aventuras. Diseñado para ser liviano y eficiente, muestra el poder de JavaScript puro para el desarrollo de juegos al tiempo que brinda una experiencia de juego nostálgica."
+                        },
+                        "fr": {
+                            "title": "**Glove Pixel Game** – Graphiques et animations 2D avec HTML5 Canvas",
+                            "info": "",
+                            "text": "Glove Pixel Game est un jeu 2D de style rétro inspiré de classiques comme Pokémon, créé à l'aide de JavaScript Vanilla, HTML et CSS. Ce jeu offre aux joueurs un monde immersif en pixel-art où ils peuvent explorer, interagir et se lancer dans des aventures passionnantes. Conçu pour être léger et efficace, il met en valeur la puissance du JavaScript pur pour le développement de jeux tout en offrant une expérience de jeu nostalgique."
+                        },
+                        "ko": {
+                            "title": "**Glove Pixel Game** – HTML5 Canvas를 사용한 2D 그래픽 및 애니메이션",
+                            "info": "",
+                            "text": "Glove Pixel Game 는 포켓몬과 같은 고전 게임에서 영감을 받은 2D 레트로 스타일 게임으로, 바닐라 자바스크립트, HTML, CSS를 사용하여 제작되었습니다. 이 게임은 플레이어에게 탐험하고, 상호작용하고, 흥미진진한 모험을 떠날 수 있는 몰입감 넘치는 픽셀 아트 세계를 제공합니다. 가볍고 효율적으로 설계되었으며, 게임 개발을 위한 순수 자바스크립트의 힘을 보여주는 동시에 향수를 불러일으키는 게임 경험을 제공합니다."
+                        }
+                    }
+                }
             ]
         }
     ]
 }
+
